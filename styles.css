@@ -209,4 +209,7 @@ body::before {
   .names-title {
     font-size: 6.5rem; /* Aumentado de 5.5rem */
   }
+  .countdown-number {
+    font-size: 1.2rem;
+}
 }
